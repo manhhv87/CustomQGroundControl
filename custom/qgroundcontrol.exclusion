@@ -1,0 +1,2 @@
+    <file alias="GeneralSettings.qml">../src/ui/preferences/GeneralSettings.qml</file>
+    <file alias="MainRootWindow.qml">../src/ui/MainRootWindow.qml</file>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="SwarmView.qml">res/SwarmView.qml</file>
+        <file alias="VideoUpdate.qml">res/VideoUpdate.qml</file>
+        <file alias="VideoComponent.qml">res/VideoComponent.qml</file>
+        <file alias="GeneralSettings.qml">res/Custom/CustomGeneralSettings.qml</file>
+        <file alias="MainRootWindow.qml">res/Custom/CustomMainRootWindow.qml</file>
+    </qresource>
+    <qresource prefix="/qmlimages">
+        <file alias="SwarmUAV.svg">res/Images/SwarmUAV.svg</file>
+        <file alias="Multi_Videos.svg">res/Images/Multi_Videos.svg</file>        
+    </qresource>
+</RCC>
